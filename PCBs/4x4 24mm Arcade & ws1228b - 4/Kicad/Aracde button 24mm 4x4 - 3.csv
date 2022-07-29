@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+"Conn_01x06_Female","4067_pads1,4067_pads2,4067_pads3,4067_pads4","Pads:pad_connector_small_6",""
+"Conn_01x07_Female","4067_pins1","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical",""
+"CD74HC4067M","74hc4067","Package_SO:SSOP-24_5.3x8.2mm_P0.65mm","C98457"
+"100nF","C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16","Capacitor_SMD:C_0603_1608Metric","C14663"
+"WS2812B","D1,D3,D5,D7,D9,D11,D13,D15,D17,D19,D21,D23,D25,D27,D29,D31","LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm","C114586"
+"SW_SPST","SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16","Arcade:Arcade button 24mm",""
+"Conn_01x02_Female","ws2812b_pads1,ws2812b_pads2,ws2812b_pads3,ws2812b_pads4","Pads:pad_connector_small_2",""
+"Conn_01x04_Female","ws2812b_pins4","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
